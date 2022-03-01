@@ -1,0 +1,3 @@
+# JS
+
+<https://standardjs.com>

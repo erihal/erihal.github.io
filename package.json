@@ -1,0 +1,20 @@
+{
+  "name": "erihal.github.io",
+  "version": "1.0.0",
+  "description": "erihal.dev",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erihal/erihal.github.io.git"
+  },
+  "author": "erihal",
+  "license": "ISC",
+  "homepage": "https://erihal.dev/",
+  "dependencies": {
+    "vitepress": "^0.22.3"
+  }
+}

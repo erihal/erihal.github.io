@@ -1,2 +1,1 @@
-# erihal.github.io
-Notes
+# erihal.github.io / erihal.dev
